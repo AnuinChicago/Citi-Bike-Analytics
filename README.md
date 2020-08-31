@@ -16,5 +16,5 @@ More riders on Mon and Tues in 2020.  Number of female riders went up in 2020.
 More females rode in 2020 as comapared to 2019. Male riders decreased. Subscriptions went down in 2020. 
 There were a lot more middle aged customers in 2020
 
-
+![citi3]
 The popularity of starting and ending stations are fairly consistent in both the years
