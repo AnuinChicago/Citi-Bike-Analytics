@@ -8,7 +8,7 @@ The objective of this exercise is to create a dashboard for the New York Citi Bi
 The data is collected, organized, and made public on the Citi Bike Data webpage.
 
 ## Here are some findings:
-![citi1](citi1.jpg)
+![citi1](citi1.png)
 
 
 Lesser people are biking in 2020. Trip duration has gone up. Peak hours are the same. Weekends were not that busy in 2020. 
